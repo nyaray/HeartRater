@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Heart Rater</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+
+    <plurals name="beatCount">
+        <item quantity="zero">beats</item>
+        <item quantity="one">beat</item>
+        <item quantity="other">beats</item>
+    </plurals>
+
+<!--    <plurals name="seconds">-->
+<!--        <item quantity="zero">0 sec's</item>-->
+<!--        <item quantity="one">1 sec</item>-->
+<!--        <item quantity="other">%d sec's</item>-->
+<!--    </plurals>-->
+
+    <string name="hrLabel">Heart Rate</string>
+
+    <string name="beat">beat</string>
+    <string name="reset">reset</string>
+</resources>
